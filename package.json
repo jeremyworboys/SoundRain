@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "Downloads songs from SoundCloud.com",
   "author": "James Brooks <jbrooksuk@me.com>",
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  },
   "repository": "git://github.com/jbrooksuk/SoundRain.git",
   "keywords": [
     "soundcloud",
