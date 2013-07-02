@@ -1,15 +1,14 @@
 {
-	"name": "soundrain",
-	"version": "0.0.2",
-	"description": "Downloads songs from SoundCloud.com",
-	"main": "./index.js",
-	"repository": "git://github.com/jbrooksuk/SoundRain.git",
-	"keywords": [
-		"soundcloud",
-		"mp3",
-		"download",
-		"soundrain"
-	],
-	"author": "James Brooks <jbrooksuk@me.com>",
-	"readmeFilename": "README.md"
+  "name": "soundrain",
+  "version": "0.0.2",
+  "description": "Downloads songs from SoundCloud.com",
+  "author": "James Brooks <jbrooksuk@me.com>",
+  "repository": "git://github.com/jbrooksuk/SoundRain.git",
+  "keywords": [
+    "soundcloud",
+    "mp3",
+    "download",
+    "soundrain"
+  ],
+  "readmeFilename": "README.md"
 }
