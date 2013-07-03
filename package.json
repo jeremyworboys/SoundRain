@@ -14,5 +14,9 @@
     "download",
     "soundrain"
   ],
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "node.extend": "~1.0.7",
+    "async": "~0.2.9"
+  }
 }
