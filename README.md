@@ -11,7 +11,7 @@ SoundRain is really easy to setup. Create a folder in your app directory which w
 
 ```js
 SoundRain = require('soundrain');
-var Song = new SoundRain("https://soundcloud.com/jbrooksuk/twisted-beat-sample-at", './mp3');
+var Song = new SoundRain("https://soundcloud.com/jbrooksuk/twisted-beat-sample-at", { outdir: './mp3' });
 Song.on('error', function(err) {
 	if(err) throw err;
 }).on('done', function(file) {
